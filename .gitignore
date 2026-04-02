@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node (if using Tailwind CLI)
+node_modules/
+dist/
+.npm
+
+# Tailwind build output (generated — do not commit)
+src/output.css
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+#claude
+.claude/
